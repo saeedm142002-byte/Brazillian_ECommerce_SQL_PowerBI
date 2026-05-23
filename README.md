@@ -284,31 +284,25 @@ These simulations help analyze how operational decisions affect:
 
 ## 📊 1. Executive Overview
 
-![Overview](Screenshots/Overview.png)
+![Overview](Screenshot/OverviewPage.png)
 
 ---
 
-## 🌍 2. Geographic Analysis
+## 🌍 2. Customers Behavioral & Market Analysis
 
-![Geography](Screenshots/Geography.png)
-
----
-
-## 🚚 3. Logistics Performance
-
-![Logistics](Screenshots/Logistics.png)
+![Customer&Market](Screenshot/CustomersPage.png)
 
 ---
 
-## 👥 4. Customer Insights
+## 🚚 3. What-IF Analysis
 
-![Customers](Screenshots/Customers.png)
+![What-IF](Screenshot/WhatIfPage.png)
 
 ---
 
-## 🛒 5. Product & Category Performance
+## 👥 4. Marketing Insights
 
-![Products](Screenshots/Products.png)
+![Marketing](Screenshot/MarketingPage.png)
 
 ---
 
