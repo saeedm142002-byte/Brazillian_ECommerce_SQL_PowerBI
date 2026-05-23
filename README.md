@@ -15,6 +15,7 @@
 - [What-If Analysis](#-what-if-analysis)
 - [Dashboard Preview](#-dashboard-preview)
 - [Key Insights](#-Key-Insights)
+- [Recommendations](#-Recommendations)
 - [Technical Stack](#-technical-stack)
 - [Key Learnings](#-key-learnings)
 - [Future Improvements](#-future-improvements)
@@ -422,6 +423,116 @@ The least effective acquisition channels were:
 - The weakest lead type is **Online Top**.
   
 
+
+---
+# 💡 Recommendations
+
+## 🚚 Logistics & Delivery Optimization
+
+- Prioritize reducing late deliveries, especially in high-delay states such as **Alagoas**, where the delay rate exceeds 21%.
+
+- Investigate logistics bottlenecks in:
+  - Shipping partners
+  - Warehouse operations
+  - Regional delivery routes
+
+- Improve estimated delivery accuracy to reduce customer dissatisfaction caused by unrealistic delivery expectations.
+
+- Introduce regional logistics KPIs and SLA monitoring dashboards to track delivery performance continuously.
+
+- Since delayed deliveries strongly correlate with low review scores, improving logistics performance can directly improve customer satisfaction and retention.
+
+---
+
+## ⭐ Customer Experience & Retention
+
+- Build customer retention programs focused on:
+  - Loyalty rewards
+  - Personalized offers
+  - Post-purchase engagement
+
+- Implement proactive customer communication for delayed orders through:
+  - SMS updates
+  - Email notifications
+  - Real-time tracking
+
+- Focus on improving customer experience in regions with high delay rates to reduce negative reviews.
+
+- Encourage positive reviews by targeting customers with successful on-time deliveries.
+
+---
+
+## 🛒 Product & Revenue Strategy
+
+- Expand investment in high-performing categories such as **Health & Beauty** due to their strong revenue contribution.
+
+- Reassess low-performing categories like **Security & Services** to determine whether:
+  - Pricing adjustments are needed
+  - Marketing support is insufficient
+  - The category should be deprioritized
+
+- Increase Average Order Value (AOV) through:
+  - Product bundling
+  - Cross-selling
+  - Upselling strategies
+
+- Focus on improving revenue quality instead of relying only on order volume growth.
+
+---
+
+## 🌍 Geographic Expansion Strategy
+
+- Continue scaling operations in **São Paulo**, as it represents the strongest customer and revenue concentration.
+
+- Analyze why markets like **Roraima** underperform and determine whether:
+  - Logistics limitations exist
+  - Demand is low
+  - Marketing reach is insufficient
+
+- Replicate successful sales and logistics strategies from top-performing states into weaker regions.
+
+---
+
+## 💳 Payment Optimization
+
+- Since Credit Cards dominate transactions, optimize checkout experiences around credit card users.
+
+- Investigate the low Debit Card usage rate to determine whether:
+  - Payment friction exists
+  - Customers lack incentives
+  - Certain payment methods are unavailable
+
+- Introduce installment plans or payment incentives to improve conversion rates and larger order values.
+
+---
+
+# 📢 Marketing Recommendations
+
+## 📈 Lead Generation Optimization
+
+- Increase investment in:
+  - Organic Search
+  - Paid Search
+
+These channels generate the highest acquisition performance and lead quality.
+
+- Reduce spending on weak-performing channels such as:
+  - Display Ads
+  - Email Marketing
+  - Referral campaigns
+
+Unless performance improves significantly.
+
+---
+
+## 🏪 Business Segment Focus
+
+- Prioritize acquiring sellers in the **Home Decor** segment due to strong performance and market demand.
+
+- Reevaluate the **Computers** segment to identify:
+  - Competitive challenges
+  - Pricing issues
+  - Market saturation
 
 ---
 
