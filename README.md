@@ -14,6 +14,7 @@
 - [KPIs & DAX Measures](#-kpis--dax-measures)
 - [What-If Analysis](#-what-if-analysis)
 - [Dashboard Preview](#-dashboard-preview)
+- [Key Insights](#-Key-Insights)
 - [Technical Stack](#-technical-stack)
 - [Key Learnings](#-key-learnings)
 - [Future Improvements](#-future-improvements)
@@ -303,6 +304,124 @@ These simulations help analyze how operational decisions affect:
 ## 👥 4. Marketing Insights
 
 ![Marketing](Screenshot/MarketingPage.png)
+
+---
+
+# 📊 Key Insights
+
+## 📈 Revenue & Orders Performance
+
+- Revenue peaked in **2018**, followed by **2017** and **2016** respectively.
+
+- 2018 achieved the highest order volume with approximately **52.8K orders** and the largest customer count.
+
+- Despite higher order volume in 2018, **2017 generated a slightly higher Average Order Value (AOV)**, while **2016 recorded the highest AOV overall**.
+
+- This indicates that recent growth is driven more by order volume than by customer spending value.
+
+---
+
+## 🛒 Product & Category Performance
+
+- The **Health & Beauty** category generated the highest revenue at approximately **$1.15M**.
+
+- The weakest category was **Security & Services**, contributing only around **$283** in total revenue.
+
+---
+
+## 🌍 Geographic Performance
+
+- **São Paulo (SP)** is the top-performing state with approximately **$4.7M revenue**.
+
+- **Roraima** recorded the lowest revenue at around **$7.1K**.
+
+- Customer concentration in São Paulo increased by approximately **5% compared to the previous year**, reinforcing its dominance as the primary market.
+
+---
+
+## 🚚 Logistics & Delivery Performance
+
+- The average late delivery rate is approximately **6.8%**.
+
+- **2018 recorded the highest late delivery rate at 7.7%**, increasing by approximately **2.1% YoY**.
+
+- However, this increase occurred alongside strong business growth, with order volume increasing by approximately **9.4K additional orders**.
+
+- States show significant differences in delivery performance:
+  - **Alagoas** recorded the highest late delivery rate at **21.4%**
+  - **Amazonas** achieved the best logistics performance with only **2.8% late deliveries**
+
+---
+
+## ⭐ Customer Satisfaction & Reviews
+
+- Customer review scores remained relatively stable compared to the previous year.
+
+- Delivery delay has a direct impact on customer satisfaction:
+  - Orders with the highest delay days were heavily associated with **1-star reviews**
+  - Orders delivered earlier or close to the estimated date were strongly associated with **5-star reviews**
+
+- This highlights logistics performance as a major driver of customer experience and satisfaction.
+
+---
+
+## 💳 Payment Behavior
+
+- **Credit Card** is the dominant payment method, contributing approximately **73.9%** of all transactions.
+
+- **Debit Card** usage is extremely low at only **1.5%**, making it the least utilized payment method.
+
+---
+
+# 📢 Marketing Insights
+
+## 📌 Business Types
+
+- The majority of sellers belong to the **Reseller** business type, contributing approximately **68.2%** of total leads.
+
+---
+
+## 📈 Lead Growth
+
+- Qualified Leads (MQLs) increased dramatically by approximately **4K leads**, representing nearly **3x growth compared to the previous year**.
+
+- This indicates strong growth in marketing acquisition efforts.
+
+---
+
+## 🔍 Lead Acquisition Channels
+
+### Best Performing Channels
+The most effective channels for seller acquisition are:
+- Organic Search
+- Paid Search
+
+These channels generated the highest lead contribution and engagement.
+
+### Weakest Channels
+The least effective acquisition channels were:
+- Display Ads
+- Email Marketing
+- Referral
+- Other Publicities
+
+---
+
+## 🏪 Business Segments
+
+- **Home Decor** is the top-performing business segment.
+
+- **Computers** is the weakest-performing segment in terms of leads and business activity.
+
+---
+
+## 🌐 Lead Types
+
+- The top-performing lead type is **Online Medium**.
+
+- The weakest lead type is **Online Top**.
+  
+
 
 ---
 
